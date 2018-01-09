@@ -9,6 +9,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 
 ## File list
-Shih-TingHuang_report.pdf : final project report file
-tflearn_3face.py : CNN model, train model from data, and output prediction
-faceDetection.m : Face detector program, extract face from image
+* Shih-TingHuang_report.pdf : final project report file
+* tflearn_3face.py : CNN model, train model from data, and output prediction
+* faceDetection.m : Face detector program, extract face from image
